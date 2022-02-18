@@ -1,2 +1,2 @@
-# js-react-radiostation
+# react-radiostation
 Created with CodeSandbox
